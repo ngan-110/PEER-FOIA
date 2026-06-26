@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PEER-FOIA/static/css/main.257ba4b5.css",
-    "main.js": "/PEER-FOIA/static/js/main.828dc627.js",
-    "static/js/453.7eec9395.chunk.js": "/PEER-FOIA/static/js/453.7eec9395.chunk.js",
-    "index.html": "/PEER-FOIA/index.html",
-    "main.257ba4b5.css.map": "/PEER-FOIA/static/css/main.257ba4b5.css.map",
-    "main.828dc627.js.map": "/PEER-FOIA/static/js/main.828dc627.js.map",
-    "453.7eec9395.chunk.js.map": "/PEER-FOIA/static/js/453.7eec9395.chunk.js.map"
+    "main.css": "/static/css/main.257ba4b5.css",
+    "main.js": "/static/js/main.62642fb4.js",
+    "static/js/453.7eec9395.chunk.js": "/static/js/453.7eec9395.chunk.js",
+    "index.html": "/index.html",
+    "main.257ba4b5.css.map": "/static/css/main.257ba4b5.css.map",
+    "main.62642fb4.js.map": "/static/js/main.62642fb4.js.map",
+    "453.7eec9395.chunk.js.map": "/static/js/453.7eec9395.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.257ba4b5.css",
-    "static/js/main.828dc627.js"
+    "static/js/main.62642fb4.js"
   ]
 }
